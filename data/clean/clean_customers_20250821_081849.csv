@@ -1,0 +1,4 @@
+customer_id,created_at,plan,region,email_hash,total_spend,orders_count,sessions_count
+C001,2024-01-10,pro,IN,hash1,798.0,2,1
+C002,2024-03-08,basic,IN,hash2,199.0,1,1
+C003,2024-04-15,basic,US,hash3,0.0,0,1

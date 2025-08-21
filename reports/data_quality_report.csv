@@ -1,0 +1,13 @@
+path,rows,issues
+data/raw\customers_20250821_081831.csv,3,
+data/raw\customers_20250821_082323.csv,3,
+data/raw\customers_20250821_092147.csv,3,
+data/raw\customers_20250821_093335.csv,3,
+data/raw\orders_20250821_081831.csv,3,
+data/raw\orders_20250821_082323.csv,3,
+data/raw\orders_20250821_092147.csv,3,
+data/raw\orders_20250821_093335.csv,3,
+data/raw\sessions_20250821_081831.csv,3,
+data/raw\sessions_20250821_082323.csv,3,
+data/raw\sessions_20250821_092147.csv,3,
+data/raw\sessions_20250821_093335.csv,3,
